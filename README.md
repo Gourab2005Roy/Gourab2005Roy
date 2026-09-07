@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Gourab Roy. <br>I'm currently revising C++, DSA (C++) journey.<br>I'm learning SQL, EXCEL and PYTHON.
+Hi, I'm Gourab Roy. <br>I'm in my final year of my B. Tech journey at Vellore Institute of Technology, in CSE. <br>My on-going CGPA is 8.00/10.00. <br>I'm looking forward to learn and grow.
 
 
 ## 🌐 Socials:
